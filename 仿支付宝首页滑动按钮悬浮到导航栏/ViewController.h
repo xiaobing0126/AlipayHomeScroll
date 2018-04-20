@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+///根视图控制器
 @interface ViewController : UIViewController
 
 
